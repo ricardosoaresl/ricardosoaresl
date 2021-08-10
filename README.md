@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricardo Soares 👋
 
-Technology enthusiast, looking for new knowledge for 10 years. Focus on software architecture, agile management and mobile development.
+Technology enthusiast, looking for new knowledge for the last 10 years. Focus on software architecture, agile management and mobile development.
 
 <div>
   <a href="https://github.com/ricardosoaresl">
