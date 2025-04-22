@@ -1,14 +1,6 @@
 ### Hi there, I'm Ricardo Soares 👋
 
-Passionate technology enthusiast with over 16 years of experience in constantly seeking new knowledge. Specializing in software architecture, agile management, and mobile development, I have a deep understanding of best practices and trends in interface design, usability, and user experience. My day-to-day work currently revolves around Javascript, Typescript, React Native, React, and Next.js technologies, along with Git for version control, unit testing for ensuring code quality, CI/CD pipelines for continuous integration and delivery, Figma for collaborative design, and a commitment to writing clean code.
-
-I have been working as a frontend/mobile engineer for the past 16 years, gaining extensive experience with teams of various sizes, from solo projects to startup-sized teams and large multinational groups with over 30 developers on a single project.
-
-During these 16 years, I have worked across diverse industries including public transport, mobility, civil engineering, architecture, healthcare, finance, sports betting apps, government entities, e-commerce, live streaming for legal education schools, and advertising agencies, where I've collaborated on various projects. Additionally, I have a strong background in web development, having published over 100 websites for clients across different sectors.
-
-I've worked on projects of all scales and have experience with various management methodologies, including Agile (Scrum, Kanban) and non-Agile approaches.
-
-Throughout my career, I have led development teams, collaborating closely with designers and other stakeholders to deliver high-quality software products within established timelines. I'm always looking for new ways to drive innovation and contribute to the success of challenging projects
+Passionate technology enthusiast with over 16 years of experience in constantly seeking new knowledge. Specializing in software architecture, agile management, and mobile development, I have a deep understanding of best practices and trends in interface design, usability, and user experience. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
