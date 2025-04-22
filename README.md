@@ -2,11 +2,10 @@
 
 Technology enthusiast, looking for new knowledge for the last 10 years. Focus on software architecture, agile management and mobile development.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%; width: 600px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark" style="max-width: 100%; width: 600px;" />
-</div>
-  
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark)
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,7 +14,7 @@ Technology enthusiast, looking for new knowledge for the last 10 years. Focus on
   <img align="center" alt="CSS3" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
 ##
 
 <div align="center"> 
