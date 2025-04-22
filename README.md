@@ -6,6 +6,10 @@ Technology enthusiast, looking for new knowledge for the last 10 years. Focus on
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark"/>
+
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
