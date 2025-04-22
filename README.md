@@ -4,7 +4,9 @@ Passionate technology enthusiast with over 16 years of experience in constantly 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
-/*<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark" />*/
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark" />
+-->
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
