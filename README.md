@@ -7,7 +7,7 @@ Technology enthusiast, looking for new knowledge for the last 10 years. Focus on
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosoaresl&layout=compact&langs_count=7&theme=dark)
 
 
-![Ricardo's GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true" />)
+<img src="https://github-readme-stats.vercel.app/api?username=ricardosoaresl&show_icons=true&theme=dark" />
 
 
 
